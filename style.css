@@ -1,0 +1,47 @@
+body{
+    box-sizing:border-box;
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    padding:0;
+    color:#3E3E3E;
+    background-color:#FFFBF0;
+    line-height: 22px;
+}
+
+.buy-btn{
+    background-color: #94AE2E;
+    border:none;
+    font-size: 22px;
+    font-weight:400;
+}
+.buy-btn:hover{
+    background-color: #333;
+}
+.heading-span1{
+    color: #FABE4C;
+}
+.heading-span2{
+    color: #4F516B;
+}
+.banner-content h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size:80px;
+}
+.section-title{
+    font-family: 'Bebas Neue', cursive;
+    font-size:50px;
+
+}
+.jacket{
+    background-color: #fff;
+}
+.price{
+    color:#FABE4C;
+}
+.card{
+    background-color: #f1f1f1;
+}
+
+
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif; */
